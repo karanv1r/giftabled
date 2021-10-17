@@ -1,2 +1,10 @@
+this project has been made for ngo named giftabled. this project enhances the user interaction with dashboard and effective user interface for better form submissions .
+features included:-
+login authentication
+dashboard displaying number of enteries ,location of enteries, statistical analysis of enteries.
+q&a form for clients
+auto sms generator after form submission for registered mobile
+pagination
 
-##### The code ("Code") in this repository was created solely by the student teams during a coding competition hosted by JPMorgan Chase Bank, N.A. ("JPMC").						JPMC did not create or contribute to the development of the Code.  This Code is provided AS IS and JPMC makes no warranty of any kind, express or implied, as to the Code,						including but not limited to, merchantability, satisfactory quality, non-infringement, title or fitness for a particular purpose or use.
+deployed on :- https://giftabled.herokuapp.com
+dashboard available for giftable admin on :- https://giftabled.herokuapp.com/adminUserDashboard
